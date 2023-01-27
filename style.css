@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+body{
+    display: flex;
+    /* align-items: center; */
+    /* justify-content: center;  */
+    background: rgb(115, 221, 67);
+    color: rgb(49, 40, 40);
+}
+
+input{
+    padding: 10px 10px;
+    width: 400px;
+    margin-top: 20px;
+    border: none;
+}
+
+.search{
+   border: none;
+    padding: 10px;
+}
+
+.dictionary{
+    width: 280px;
+    padding: 0 20px;
+}
